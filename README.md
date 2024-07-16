@@ -1,10 +1,10 @@
 <h1 align="center" id="header">Data Science with Python</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.26-orange)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0-red)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-green)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.13-purple)](https://seaborn.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue.svg)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue.svg)](https://seaborn.pydata.org/)
 
 <p align="right">Follow <a href="https://github.com/TheMrityunjayPathak" align="right">@Mrityunjay Pathak</a> for more!</p>
 
