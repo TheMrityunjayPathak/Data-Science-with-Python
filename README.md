@@ -32,46 +32,41 @@
 - This repository serves as a comprehensive resource for learning and practicing Data Science techniques using Python.
 - I’ve noticed that finding reliable and consolidated resources can be challenging, especially for those new to the field.
 - By creating and sharing these Jupyter Notebooks, I hope to simplify the learning process and make good-quality information accessible to everyone.
-- Each notebook will be well documented and well structured to cover everything from basics to advance, ensuring a comprehensive learning experience.
 
 ## Libraries Covered
 
 The notebooks in this repository cover the following essential Python libraries used in Data Science :
 
-- **NumPy** : Fundamental package for Numerical Computing.
-- **Pandas** : Data analysis and Manipulation Tool.
-- **Matplotlib** : Tool for creating static, animated and interactive visualizations.
-- **Seaborn** : Data Visualization library based on Matplotlib, providing a high-level interface.
+| NumPy | Pandas | Matplotlib | Seaborn |
+|:--:|:--:|:--:|:--:|
 
 ## Notebooks
 
-Here's a list of notebooks available in this repository:
-
-1. **Introduction to NumPy**: Basic operations, array creation, and manipulation.
-2. **Data Manipulation with Pandas**: Data loading, cleaning, and analysis.
-3. **Data Visualization with Matplotlib and Seaborn**: Plotting techniques and advanced visualizations.
-4. **Machine Learning with Scikit-learn**: Basic machine learning algorithms and pipelines.
-5. **Deep Learning with TensorFlow/Keras**: Neural network models and training.
-6. **Natural Language Processing with NLTK**: Text processing and analysis.
-
-Each notebook is self-contained with explanations, code snippets, and outputs to facilitate learning and understanding.
+**Python**
+**NumPy**
+**Pandas**
+**Matplotlib**
+**Seaborn**
 
 ## Getting Started
 
-To get started with these notebooks, clone the repository to your local machine:
+- To get started with these notebooks, clone the repository to your local machine :
 
 ```bash
-git clone https://github.com/your-username/data-science-python.git
+https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
 ```
 
-Navigate into the repository and open any notebook using Jupyter Notebook or JupyterLab:
+- Navigate into the repository and open any notebook using Jupyter Notebook or JupyterLab :
 
 ```bash
-cd data-science-python
+cd data-science-with-python
+```
+
+```bash
 jupyter notebook
 ```
 
-Feel free to explore, modify, and experiment with the notebooks to suit your learning objectives.
+- Feel free to explore, modify and experiment with the notebooks to suit your learning objectives.
 
 ## Contributing
 
