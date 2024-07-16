@@ -70,13 +70,11 @@ jupyter notebook
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have any improvements, additional notebooks, or corrections, please feel free to fork this repository, make your changes, and submit a pull request.
+- Contributions to this repository are Welcome!
+- If you have any improvements, additional notebooks or corrections, please feel free to fork this repository, make your changes and submit a pull request.
 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ---
-
-We hope you find these notebooks useful in your journey through Data Science with Python! If you have any questions or feedback, don't hesitate to reach out.
-```
