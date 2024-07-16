@@ -43,9 +43,13 @@ The notebooks in this repository cover the following essential Python libraries 
 ## Notebooks
 
 **Python**
+
 **NumPy**
+
 **Pandas**
+
 **Matplotlib**
+
 **Seaborn**
 
 ## Getting Started
@@ -71,10 +75,13 @@ jupyter notebook
 ## Contributing
 
 - Contributions to this repository are Welcome!
-- If you have any improvements, additional notebooks or corrections, please feel free to fork this repository, make your changes and submit a pull request.
+- If you would like to add more notebooks or make improvements to existing ones, feel free to submit a pull request.
 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ---
+<div align="right">
+  <a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
+</div>
