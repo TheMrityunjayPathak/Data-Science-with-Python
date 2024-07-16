@@ -44,14 +44,6 @@ The notebooks in this repository cover the following essential Python libraries 
 
 **Python**
 
-**NumPy**
-
-**Pandas**
-
-**Matplotlib**
-
-**Seaborn**
-
 ## Getting Started
 
 - To get started with these notebooks, clone the repository to your local machine :
