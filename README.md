@@ -36,17 +36,12 @@
 
 ## Libraries Covered
 
-The notebooks in this repository cover the following essential Python libraries used in Data Science:
+The notebooks in this repository cover the following essential Python libraries used in Data Science :
 
-- **NumPy**: Fundamental package for numerical computing.
-- **Pandas**: Data analysis and manipulation tool.
-- **Matplotlib**: Comprehensive library for creating static, animated, and interactive visualizations.
-- **Seaborn**: Data visualization library based on Matplotlib, providing a high-level interface.
-- **Scikit-learn**: Simple and efficient tools for data mining and data analysis.
-- **TensorFlow/Keras**: Frameworks for deep learning and neural networks.
-- **NLTK (Natural Language Toolkit)**: Library for natural language processing.
-
-Each library is explored through practical examples and exercises to help you understand its capabilities and applications.
+- **NumPy** : Fundamental package for Numerical Computing.
+- **Pandas** : Data analysis and Manipulation Tool.
+- **Matplotlib** : Tool for creating static, animated and interactive visualizations.
+- **Seaborn** : Data Visualization library based on Matplotlib, providing a high-level interface.
 
 ## Notebooks
 
