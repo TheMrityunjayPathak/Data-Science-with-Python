@@ -1,10 +1,10 @@
 <h1 align="center" id="header">Data Science with Python</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.x-orange)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.x-red)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-green)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.x-purple)](https://seaborn.pydata.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.26-orange)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0-red)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-green)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13-purple)](https://seaborn.pydata.org/)
 
 <p align="right">Follow <a href="https://github.com/TheMrityunjayPathak" align="right">@Mrityunjay Pathak</a> for more!</p>
 
@@ -41,7 +41,7 @@
 
 ## Libraries Covered
 
-The notebooks in this repository cover the following essential Python libraries used in Data Science :
+- The notebooks in this repository cover the following essential Python libraries used in Data Science :
 
 | NumPy | Pandas | Matplotlib | Seaborn |
 |:--:|:--:|:--:|:--:|
@@ -77,7 +77,7 @@ jupyter notebook
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+- This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
 ---
 <div align="right">
