@@ -43,6 +43,7 @@
 ## Notebooks
 
 **Python**
+- [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
 ## Getting Started
 
