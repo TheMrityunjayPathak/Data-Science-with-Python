@@ -1,4 +1,4 @@
-<h1 align="center">Data Science with Python</h1>
+<h1 align="center" id="header">Data Science with Python</h1>
 
 <p align="right">Follow <a href="https://github.com/TheMrityunjayPathak" align="right">@Mrityunjay Pathak</a> for more!</p>
 
@@ -83,5 +83,5 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 ---
 <div align="right">
-  <a href="#"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
+  <a href="#header"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
 </div>
