@@ -42,8 +42,27 @@
 
 ## Notebooks
 
-**Python**
-- [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
+🔵 **Python**
+- Certification Course
+  - [Scaler Python Course](https://www.scaler.com/topics/course/python-for-beginners/)
+  - [DataFlair Python Course](https://data-flair.training/courses/python-course/)
+  - [Intellipaat Python Course](https://intellipaat.com/academy/course/introduction-to-python-programming-free-course/)
+- Python Online Compilers
+  - [Programiz](https://www.programiz.com/python-programming/online-compiler/)
+  - [Online Python](https://www.online-python.com/)
+  - [Next Leap](https://nextleap.app/online-compiler/python-programming)
+- Interview Questions
+  - [Beginners](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [Intermediate](https://data-flair.training/blogs/python-interview-questions/)
+  - [Advance](https://data-flair.training/blogs/python-programming-interview-questions/)
+- Python Practice Questions
+  - [PYnative](https://pynative.com/python-exercises-with-solutions/)
+  - [Programiz](https://www.programiz.com/python-programming/examples)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-examples/)
+- Cheat Sheet
+  - [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
+
+[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
 ## Getting Started
 
