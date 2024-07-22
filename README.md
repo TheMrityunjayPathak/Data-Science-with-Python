@@ -42,7 +42,7 @@
 
 ## Notebooks
 
-🔵 **Python**
+🟡 **Python**
 - Certification Course
   - [Scaler Python Course](https://www.scaler.com/topics/course/python-for-beginners/)
   - [DataFlair Python Course](https://data-flair.training/courses/python-course/)
@@ -63,6 +63,10 @@
   - [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
+
+🔵 **NumPy**
+
+[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
 ## Getting Started
 
