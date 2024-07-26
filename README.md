@@ -43,19 +43,15 @@
 ## Notebooks
 
 🟡 **Python**
-- Certification Course
+- Python Courses
   - [Scaler Python Course](https://www.scaler.com/topics/course/python-for-beginners/)
   - [DataFlair Python Course](https://data-flair.training/courses/python-course/)
   - [Intellipaat Python Course](https://intellipaat.com/academy/course/introduction-to-python-programming-free-course/)
-- Python Online Compilers
-  - [Programiz](https://www.programiz.com/python-programming/online-compiler/)
-  - [Online Python](https://www.online-python.com/)
-  - [Next Leap](https://nextleap.app/online-compiler/python-programming)
 - Interview Questions
   - [Beginners](https://data-flair.training/blogs/top-python-interview-questions-answer/)
   - [Intermediate](https://data-flair.training/blogs/python-interview-questions/)
   - [Advance](https://data-flair.training/blogs/python-programming-interview-questions/)
-- Python Practice Questions
+- Practice Questions
   - [PYnative](https://pynative.com/python-exercises-with-solutions/)
   - [Programiz](https://www.programiz.com/python-programming/examples)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-examples/)
@@ -65,6 +61,20 @@
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
 🔵 **NumPy**
+- NumPy Courses
+  - [DataCamp NumPy Course](https://www.datacamp.com/courses/introduction-to-numpy)
+  - [DataFlair NumPy Course](https://data-flair.training/courses/free-numpy-course-hindi/)
+  - [Scaler NumPy Course](https://www.scaler.com/topics/numpy/)
+- Interview Question
+  - [GeekforGeeks](https://www.geeksforgeeks.org/numpy-interview-questions/)
+  - [InterviewBit](https://www.interviewbit.com/numpy-interview-questions/)
+  - [ProjectPro](https://www.projectpro.io/article/numpy-interview-questions-and-answers/980)
+- Practice Question
+  - [W3resource](https://www.w3resource.com/python-exercises/numpy/index.php)
+  - [GeekforGeeks](https://www.geeksforgeeks.org/python-numpy-practice-exercises-questions-and-solutions/)
+  - [Machine Learning +](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+- Cheat Sheet
+  - [NumPy Cheat Sheet](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
