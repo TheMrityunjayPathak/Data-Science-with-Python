@@ -60,16 +60,16 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
-🔵 **NumPy**
+🟡 **NumPy**
 - NumPy Courses
   - [DataCamp NumPy Course](https://www.datacamp.com/courses/introduction-to-numpy)
   - [DataFlair NumPy Course](https://data-flair.training/courses/free-numpy-course-hindi/)
   - [Scaler NumPy Course](https://www.scaler.com/topics/numpy/)
-- Interview Question
+- Interview Questions
   - [GeekforGeeks](https://www.geeksforgeeks.org/numpy-interview-questions/)
   - [InterviewBit](https://www.interviewbit.com/numpy-interview-questions/)
   - [ProjectPro](https://www.projectpro.io/article/numpy-interview-questions-and-answers/980)
-- Practice Question
+- Practice Questions
   - [W3resource](https://www.w3resource.com/python-exercises/numpy/index.php)
   - [GeekforGeeks](https://www.geeksforgeeks.org/python-numpy-practice-exercises-questions-and-solutions/)
   - [Machine Learning +](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
