@@ -78,6 +78,24 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
+🟡 **Pandas**
+- Pandas Courses
+  - [DataFlair Pandas Course](https://data-flair.training/blogs/pandas-tutorials-home/)
+  - [Scaler Pandas Course](https://www.scaler.com/topics/pandas/)
+  - [DataCamp Pandas Course](https://www.datacamp.com/courses/data-manipulation-with-pandas)
+- Interview Questions
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/pandas-interview-questions/)
+  - [InterviewBit](https://www.interviewbit.com/pandas-interview-questions/)
+  - [MlStack](https://www.mlstack.cafe/blog/pandas-python-interview-questions)
+- Practice Questions
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/)
+  - [W3resource](https://www.w3resource.com/python-exercises/pandas/index.php)
+  - [Machine Learning +](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+- Cheat Sheet
+  - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
+
 ## Getting Started
 
 - To get started with these notebooks, clone the repository to your local machine :
