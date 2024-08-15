@@ -96,6 +96,10 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
 
+🟡 **Web Scrapping**
+
+[View on GitHub »](https://github.com/TheMrityunjayPathak/Data-Science-with-Python/blob/main/Web%20Scrapping/Web%20Scrapping%20with%20Python.ipynb)
+
 ## Getting Started
 
 - To get started with these notebooks, clone the repository to your local machine :
