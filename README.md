@@ -98,7 +98,7 @@
 
 🟡 **Web Scrapping**
 
-[View on GitHub »](https://github.com/TheMrityunjayPathak/Data-Science-with-Python/blob/main/Web%20Scrapping/Web%20Scrapping%20with%20Python.ipynb)
+[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/web-scrapping-with-python)
 
 ## Getting Started
 
