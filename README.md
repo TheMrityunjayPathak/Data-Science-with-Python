@@ -97,6 +97,10 @@
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
 
 🟡 **Web Scrapping**
+- Web Scrapping Course
+  - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- Cheat Sheet
+  - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/web-scrapping-with-python)
 
