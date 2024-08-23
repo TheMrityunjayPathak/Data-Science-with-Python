@@ -109,6 +109,8 @@
   - [W3School Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
   - [Matplotlib Official Documentation](https://matplotlib.org/stable/users/explain/quick_start.html)
   - [GeeksforGeeks Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
+- Cheat Sheet
+  - [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
 
 ## Getting Started
 
