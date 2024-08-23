@@ -43,10 +43,10 @@
 ## Notebooks
 
 🟡 **Python**
-- Python Courses
-  - [Scaler Python Course](https://www.scaler.com/topics/course/python-for-beginners/)
-  - [DataFlair Python Course](https://data-flair.training/courses/python-course/)
-  - [Intellipaat Python Course](https://intellipaat.com/academy/course/introduction-to-python-programming-free-course/)
+- Python Tutorial
+  - [Scaler Python Tutorial](https://www.scaler.com/topics/course/python-for-beginners/)
+  - [DataFlair Python Tutorial](https://data-flair.training/courses/python-course/)
+  - [Intellipaat Python Tutorial](https://intellipaat.com/academy/course/introduction-to-python-programming-free-course/)
 - Interview Questions
   - [Beginners](https://data-flair.training/blogs/top-python-interview-questions-answer/)
   - [Intermediate](https://data-flair.training/blogs/python-interview-questions/)
@@ -61,10 +61,10 @@
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
 🟡 **NumPy**
-- NumPy Courses
-  - [DataCamp NumPy Course](https://www.datacamp.com/courses/introduction-to-numpy)
-  - [DataFlair NumPy Course](https://data-flair.training/courses/free-numpy-course-hindi/)
-  - [Scaler NumPy Course](https://www.scaler.com/topics/numpy/)
+- NumPy Tutorial
+  - [DataCamp NumPy Tutorial](https://www.datacamp.com/courses/introduction-to-numpy)
+  - [DataFlair NumPy Tutorial](https://data-flair.training/courses/free-numpy-course-hindi/)
+  - [Scaler NumPy Tutorial](https://www.scaler.com/topics/numpy/)
 - Interview Questions
   - [GeekforGeeks](https://www.geeksforgeeks.org/numpy-interview-questions/)
   - [InterviewBit](https://www.interviewbit.com/numpy-interview-questions/)
@@ -79,10 +79,10 @@
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
 🟡 **Pandas**
-- Pandas Courses
-  - [DataFlair Pandas Course](https://data-flair.training/blogs/pandas-tutorials-home/)
-  - [Scaler Pandas Course](https://www.scaler.com/topics/pandas/)
-  - [DataCamp Pandas Course](https://www.datacamp.com/courses/data-manipulation-with-pandas)
+- Pandas Tutorial
+  - [DataFlair Pandas Tutorial](https://data-flair.training/blogs/pandas-tutorials-home/)
+  - [Scaler Pandas Tutorial](https://www.scaler.com/topics/pandas/)
+  - [DataCamp Pandas Tutorial](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 - Interview Questions
   - [GeeksforGeeks](https://www.geeksforgeeks.org/pandas-interview-questions/)
   - [InterviewBit](https://www.interviewbit.com/pandas-interview-questions/)
@@ -97,12 +97,18 @@
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
 
 🟡 **Web Scrapping**
-- Web Scrapping Course
+- Web Scrapping Tutorial
   - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Cheat Sheet
   - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/web-scrapping-with-python)
+
+🟡 **Matplotlib**
+- Matplotlib Tutorial
+  - [W3School Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
+  - [Matplotlib Official Documentation](https://matplotlib.org/stable/users/explain/quick_start.html)
+  - [GeeksforGeeks Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
 
 ## Getting Started
 
