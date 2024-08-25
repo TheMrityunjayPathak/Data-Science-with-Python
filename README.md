@@ -1,7 +1,5 @@
 <h1 align="center" id="header">Data Science with Python</h1>
 
-<p align="right">Follow <a href="https://github.com/TheMrityunjayPathak" align="right">@Mrityunjay Pathak</a> for more!</p>
-
 ## What is Data Science?
 - Data Science is a multidisciplinary field that involves extracting insights and knowledge from data using various scientific methods, algorithms and systems.
 - It encompasses a wide range of disciplines such as statistics, machine learning, data visualization and more.
