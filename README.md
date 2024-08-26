@@ -41,7 +41,7 @@
 
 ## Notebooks
 
-🟡 **Python**
+**Python**
 - Python Tutorial
   - [Scaler Python Tutorial](https://www.scaler.com/topics/course/python-for-beginners/)
   - [DataFlair Python Tutorial](https://data-flair.training/courses/python-course/)
@@ -59,7 +59,9 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
 
-🟡 **NumPy**
+---
+
+**NumPy**
 - NumPy Tutorial
   - [DataCamp NumPy Tutorial](https://www.datacamp.com/courses/introduction-to-numpy)
   - [DataFlair NumPy Tutorial](https://data-flair.training/courses/free-numpy-course-hindi/)
@@ -77,7 +79,9 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
-🟡 **Pandas**
+---
+
+**Pandas**
 - Pandas Tutorial
   - [DataFlair Pandas Tutorial](https://data-flair.training/blogs/pandas-tutorials-home/)
   - [Scaler Pandas Tutorial](https://www.scaler.com/topics/pandas/)
@@ -95,7 +99,9 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
 
-🟡 **Web Scrapping**
+---
+
+**Web Scrapping**
 - Web Scrapping Tutorial
   - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Cheat Sheet
@@ -103,7 +109,9 @@
 
 [View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/web-scrapping-with-python)
 
-🟡 **Matplotlib**
+---
+
+**Matplotlib**
 - Matplotlib Tutorial
   - [W3School Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
   - [Matplotlib Official Documentation](https://matplotlib.org/stable/users/explain/quick_start.html)
