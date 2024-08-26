@@ -113,35 +113,33 @@
 
 ## Getting Started
 
-- To get started with these notebooks, clone the repository to your local machine :
+- Clone the repository to your local machine using the following command :
+  ```bash
+  git clone https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
+  ```
 
-```bash
-https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
-```
+- Install the Jupyter Notebook :
+   ```bash
+   pip install notebook
+   ```
 
-- Navigate into the repository and open any notebook using Jupyter Notebook or JupyterLab :
+- Launch the Jupyter Notebook :
+   ```bash
+   jupyter notebook
+   ```
 
-```bash
-cd data-science-with-python
-```
-
-```bash
-jupyter notebook
-```
-
-- Feel free to explore, modify and experiment with the notebooks to suit your learning objectives.
+- Open the desired notebook from the repository in your Jupyter environment and start learning!
 
 ## Contributing
 
-- Contributions to this repository are Welcome!
-- You can add more notebooks or make improvements to existing ones.
-- Just submit a pull request and done.
+- Contributions are Welcome!
+
+- If you'd like to contribute to this repository, feel free to submit a pull request.
 
 ## License
 
 - This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
----
 <div align="right">
   <a href="#header"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
 </div>
