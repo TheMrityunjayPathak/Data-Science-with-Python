@@ -35,8 +35,8 @@
 
 - The notebooks in this repository cover the following essential Python libraries used in Data Science :
 
-| NumPy | Pandas | Matplotlib | Seaborn | BeautifulSoup |
-|:--:|:--:|:--:|:--:| :---: |
+| Python | NumPy | Pandas | Matplotlib | Seaborn | BeautifulSoup |
+|:--:|:--:|:--:|:--:| :---: | :---: |
 
 ## Notebooks
 
