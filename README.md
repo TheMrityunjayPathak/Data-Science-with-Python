@@ -1,4 +1,4 @@
-<h1 align="center" id="header">Data Science with Python</h1>
+# Data Science with Python
 
 ## What is Data Science?
 - Data Science is a multidisciplinary field that involves extracting insights and knowledge from data using various scientific methods, algorithms and systems.
@@ -148,6 +148,5 @@
 
 - This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
-<div align="right">
-  <a href="#header"><img src="https://github.com/TheMrityunjayPathak/TheMrityunjayPathak/blob/main/arrow.png" width="4%"></a>
-</div>
+| [Scroll to Top ⬆️](#data-science-with-python) |
+|:---:|
