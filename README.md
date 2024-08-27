@@ -1,6 +1,5 @@
-# Data Science with Python
+## Data Science with Python
 
-## What is Data Science?
 - Data Science is a multidisciplinary field that involves extracting insights and knowledge from data using various scientific methods, algorithms and systems.
 - It encompasses a wide range of disciplines such as statistics, machine learning, data visualization and more.
 - In today's data-driven world, proficiency in Data Science is crucial for making informed decisions, predicting trends and solving complex problems across industries.
