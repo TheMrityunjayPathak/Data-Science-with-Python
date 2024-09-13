@@ -56,8 +56,6 @@
 - Cheat Sheet
   - [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
 
-[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/python-a-complete-guide)
-
 ---
 
 **NumPy**
@@ -75,8 +73,6 @@
   - [Machine Learning +](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 - Cheat Sheet
   - [NumPy Cheat Sheet](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
-
-[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/numpy-a-complete-guide)
 
 ---
 
@@ -96,8 +92,6 @@
 - Cheat Sheet
   - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/pandas-a-complete-guide) 
-
 ---
 
 **Web Scrapping**
@@ -105,8 +99,6 @@
   - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Cheat Sheet
   - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
-
-[View on Kaggle »](https://www.kaggle.com/code/themrityunjaypathak/web-scrapping-with-python)
 
 ---
 
