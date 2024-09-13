@@ -107,7 +107,7 @@
 - Web Scrapping Tutorial
   - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - Cheat Sheet
-  - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
+  - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#dJLt)
 
 ## Getting Started
 
