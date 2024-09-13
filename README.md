@@ -6,7 +6,7 @@
 
 ## Why Python for Data Science?
 - Python has emerged as the most used language for Data Science due to its simplicity, versatility and rich ecosystem of libraries and tools. 
-- Libraries such as NumPy, Pandas, Matplotlib and Seaborn provide powerful capabilities for data manipulation and visualization.
+- Libraries such as NumPy, Pandas, Matplotlib and BeautifulSoup provide powerful capabilities for data manipulation, data extraction and visualization.
 
 ## What Does This Repository Offer?
 - This repository is designed to empower you with hands-on experience in utilizing Python for Data Science.
@@ -34,9 +34,8 @@
 
 - The notebooks in this repository cover the following essential Python libraries used in Data Science :
 
-| Python | NumPy | Pandas |
-|:--:|:--:|:--:|
-| Matplotlib | Seaborn | BeautifulSoup |
+| Python | NumPy | Pandas | Matplotlib | BeautifulSoup |
+|:--:|:--:|:--:|:--:|:--:|
 
 ## Notebooks
 
