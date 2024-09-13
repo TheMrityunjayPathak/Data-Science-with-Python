@@ -90,15 +90,7 @@
   - [Machine Learning +](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - Cheat Sheet
   - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
----
-
-**Web Scrapping**
-- Web Scrapping Tutorial
-  - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- Cheat Sheet
-  - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
-
+ 
 ---
 
 **Matplotlib**
@@ -108,6 +100,14 @@
   - [GeeksforGeeks Matplotlib Tutorial](https://www.geeksforgeeks.org/matplotlib-tutorial/)
 - Cheat Sheet
   - [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
+
+---
+
+**Web Scrapping**
+- Web Scrapping Tutorial
+  - [BeautifulSoup Official Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- Cheat Sheet
+  - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#ZA3h)
 
 ## Getting Started
 
