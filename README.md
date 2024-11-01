@@ -138,7 +138,7 @@
 
 - This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
-<div align='right'>
+<div align='left'>
   
 **[`^        Scroll to Top       ^`](#data-science-with-python)**
 
