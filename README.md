@@ -111,7 +111,7 @@
 
 ## Getting Started
 
-- Clone the repository to your local machine using the following command :
+- Clone this repository to your local machine by using the following command :
   ```bash
   git clone https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
   ```
@@ -126,7 +126,7 @@
    jupyter notebook
    ```
 
-- Open the desired notebook from the repository in your Jupyter environment and start learning!
+- Open the desired notebook from the repository in your Jupyter Environment and start coding!
 
 ## Contributing
 
