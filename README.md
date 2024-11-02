@@ -126,8 +126,6 @@
    jupyter notebook
    ```
 
-- Open the desired notebook from the repository in your Jupyter Environment and start coding!
-
 ## Contributing
 
 - Contributions are Welcome!
