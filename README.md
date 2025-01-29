@@ -83,7 +83,7 @@
 - Interview Questions
   - [GeeksforGeeks](https://www.geeksforgeeks.org/pandas-interview-questions/)
   - [InterviewBit](https://www.interviewbit.com/pandas-interview-questions/)
-  - [MlStack](https://www.mlstack.cafe/blog/pandas-python-interview-questions)
+  - [MLStack](https://www.mlstack.cafe/blog/pandas-python-interview-questions)
 - Practice Questions
   - [GeeksforGeeks](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/)
   - [W3resource](https://www.w3resource.com/python-exercises/pandas/index.php)
