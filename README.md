@@ -122,6 +122,8 @@ The notebooks in this repository cover the following essential python libraries 
    jupyter notebook
    ```
 
+- Open the desired notebook from the repository in your Jupyter environment and start coding!
+
 ## Contributing
 
 - Contributions are Welcome!
