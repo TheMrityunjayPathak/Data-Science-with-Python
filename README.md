@@ -1,5 +1,4 @@
 ## Data Science with Python
-
 - Data Science is a multidisciplinary field that involves extracting insights and knowledge from data using various scientific methods, algorithms and systems.
 - It encompasses a wide range of disciplines such as statistics, machine learning, data visualization and more.
 - In today's data driven world, proficiency in Data Science is crucial for making informed decisions, predicting trends and solving complex problems across industries.
@@ -30,7 +29,7 @@
 
 ## Libraries Covered
 
-- The notebooks in this repository cover the following essential Python libraries used in Data Science :
+- The notebooks in this repository cover the following essential python libraries used in Data Science :
 
 | Python | NumPy | Pandas | Matplotlib | BeautifulSoup |
 |:--:|:--:|:--:|:--:|:--:|
