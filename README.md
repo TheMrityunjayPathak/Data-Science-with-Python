@@ -28,7 +28,7 @@
 
 ## Libraries Covered
 
-- The notebooks in this repository cover the following essential python libraries used in Data Science :
+The notebooks in this repository cover the following essential python libraries used in Data Science :
 
 | Python | NumPy | Pandas | Matplotlib | BeautifulSoup |
 |:--:|:--:|:--:|:--:|:--:|
