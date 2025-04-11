@@ -25,9 +25,8 @@
 ## Introduction
 
 - Welcome to the Data Science with Python Repository!
-- This repository serves as a comprehensive resource for learning and practicing Data Science techniques using Python.
-- I've noticed that finding reliable and consolidated resources can be challenging, especially for those new to the field.
-- By creating and sharing these Jupyter Notebooks, I hope to simplify the learning process and make good quality information accessible to everyone.
+- This repository serves as a resource for learning and practicing data science concepts using Python.
+- By creating and sharing these Jupyter Notebooks, I hope to simplify the learning process.
 
 ## Libraries Covered
 
@@ -133,7 +132,9 @@
 
 ## License
 
-- This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+- This repository is licensed under the MIT License.
+
+- See the [LICENSE](./LICENSE) file for more information.
 
 <div align='left'>
   
