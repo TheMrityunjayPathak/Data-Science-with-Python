@@ -1,11 +1,10 @@
 ## Data Science with Python
 - Data Science is a multidisciplinary field that involves extracting insights and informations from data.
 - It encompasses a wide range of disciplines such as statistics, machine learning, data visualization and more.
-- In today's data driven world, proficiency in data science concepts is crucial for making complex business decisions.
 
 ## Why Python for Data Science?
-- Python has emerged as the most used language for Data Science due to its simplicity, versatility and rich ecosystem of libraries and tools. 
-- Libraries such as NumPy, Pandas, Matplotlib and BeautifulSoup provide powerful capabilities for data manipulation, data extraction and visualization.
+- Python has emerged as the most used language for data science due to its simplicity, versatility and rich ecosystem. 
+- Libraries such as NumPy, Pandas, Matplotlib and BeautifulSoup provides powerful capabilities to data scientist.
 
 ## What Does This Repository Offer?
 - This repository is designed to empower you with hands-on experience in utilizing Python for Data Science.
