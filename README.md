@@ -17,28 +17,10 @@
 
 <hr>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Libraries Covered](#libraries-covered)
-- [Notebooks](#notebooks)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
-<hr>
-
 ## Introduction
 - Welcome to the Data Science with Python Repository!
 - This repository serves as a resource for learning and practicing data science concepts using Python.
 - By creating and sharing these Jupyter Notebooks, I hope to simplify the learning process.
-
-<hr>
-
-## Libraries Covered
-- The notebooks in this repository cover the following essential python libraries used in Data Science :
-  
-| Python | NumPy | Pandas | Matplotlib | BeautifulSoup |
-|:--:|:--:|:--:|:--:|:--:|
 
 <hr>
 
