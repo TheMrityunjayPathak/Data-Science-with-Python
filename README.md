@@ -2,17 +2,22 @@
 - Data Science is a multidisciplinary field that involves extracting insights and informations from data.
 - It encompasses a wide range of disciplines such as statistics, machine learning, data visualization and more.
 
+<hr>
+
 ## Why Python for Data Science?
 - Python has emerged as the most used language for data science due to its simplicity and rich ecosystem. 
 - Libraries such as NumPy, Pandas, Matplotlib and BeautifulSoup provides powerful capabilities to data scientist.
+
+<hr>
 
 ## What Does This Repository Offer?
 - This repository is designed to empower you with hands-on experience in applying Python for Data Science.
 - My goal is to create a comprehensive, easy-to-access resource for all your learning needs.
 - Additionally, these Jupyter notebooks are customized with HTML and CSS to make them visually appealing.
 
-## Table of Contents
+<hr>
 
+## Table of Contents
 - [Introduction](#introduction)
 - [Libraries Covered](#libraries-covered)
 - [Notebooks](#notebooks)
@@ -20,18 +25,22 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+<hr>
 
+## Introduction
 - Welcome to the Data Science with Python Repository!
 - This repository serves as a resource for learning and practicing data science concepts using Python.
 - By creating and sharing these Jupyter Notebooks, I hope to simplify the learning process.
 
+<hr>
+
 ## Libraries Covered
-
-The notebooks in this repository cover the following essential python libraries used in Data Science :
-
+- The notebooks in this repository cover the following essential python libraries used in Data Science :
+  
 | Python | NumPy | Pandas | Matplotlib | BeautifulSoup |
 |:--:|:--:|:--:|:--:|:--:|
+
+<hr>
 
 ## Notebooks
 
@@ -105,35 +114,33 @@ The notebooks in this repository cover the following essential python libraries 
 - Cheat Sheet
   - [BeautifulSoup Cheat Sheet](https://speedsheet.io/s/beautiful_soup#dJLt)
 
+<hr>
+
 ## Getting Started
-
 - Clone this repository to your local machine by using the following command :
-  ```bash
-  git clone https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
-  ```
-
+```bash
+git clone https://github.com/TheMrityunjayPathak/Data-Science-with-Python.git
+```
 - Install the Jupyter Notebook :
-   ```bash
-   pip install notebook
-   ```
-
+ ```bash
+ pip install notebook
+ ```
 - Launch the Jupyter Notebook :
-   ```bash
-   jupyter notebook
-   ```
+ ```bash
+ jupyter notebook
+ ```
+- Open the desired notebook from the repository in your Jupyter environment and start coding.
 
-- Open the desired notebook from the repository in your Jupyter environment and start coding!
+<hr>
 
 ## Contributing
-
 - Contributions are Welcome!
-
 - If you'd like to contribute to this repository, feel free to submit a pull request.
 
+<hr>
+
 ## License
-
 - This repository is licensed under the MIT License.
-
 - See the [LICENSE](./LICENSE) file for more information.
 
 <div align='left'>
